@@ -1,0 +1,2 @@
+# LogSeqHome
+LogSeq personal graph
